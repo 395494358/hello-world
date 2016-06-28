@@ -1,2 +1,5 @@
 # hello-world
-Just anthor repository
+
+Hi Humans
+
+My career dream is Front End Engineer，and i came here just for this dream.
